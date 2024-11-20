@@ -49,7 +49,7 @@ Power BI: Data cleaning, analysis, and visualization.
 DAX: Advanced calculations for RFM metrics and scoring.
 
 ## Getting Started
-- Clone this repository: git clone <repo-url>
+- Clone this repository: git clone <https://github.com/ChidinmaMadukife/RFM-Analytics-Dashboard/tree/main>
 - Open the Power BI dashboard file (.pbix) to explore the interactive visualizations.
 
 ## Conclusion

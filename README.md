@@ -33,9 +33,10 @@ Customers were further categorized into:
 
 ### 4. Analysis and Visualization:
 I developed an interactive 2 page dashboard in Power BI showcasing various insights. Here is what the dashboard looks like:
-![Customer Segmentation](path/to/your/image.png)
 
-![Monetary Analysis](path/to/your/image.png)
+![Customer Segmentation](https://github.com/ChidinmaMadukife/RFM-Analytics-Dashboard/blob/main/images/Customer%20Segmentation%20Dashboard.jpg)
+
+![Monetary Analysis](https://github.com/ChidinmaMadukife/RFM-Analytics-Dashboard/blob/main/images/Monetary%20Analysis%20Dashboard.jpg)
 
 
 ### 5. Insights
